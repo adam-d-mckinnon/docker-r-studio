@@ -2,7 +2,7 @@
 
 FROM rocker/verse:latest
 
-MAINTAINER 'Adam McKinnon' adam.d.mckinnon@gmail
+MAINTAINER 'Adam McKinnon' adam.d.mckinnon@gmail.com
 
 ## create directories
 RUN mkdir -p /01_data
